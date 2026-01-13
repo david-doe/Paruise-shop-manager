@@ -5,7 +5,7 @@
 > **Impact :** Digitalisation complète d'une boutique physique
 
 ##  Le Contexte Business
-**Paruise Shop** est une boutique de prêt-à-porter située à Wonyomé. Jusqu'à récemment, la gestion (stocks, ventes, comptabilité) était effectuée manuellement, entraînant des erreurs de stock et un manque de visibilité financière.
+**Paruise Shop** est une boutique de prêt-à-porter de ma soeur située à Lomé au Togo. Jusqu'à récemment, la gestion (stocks, ventes, comptabilité) était effectuée manuellement, entraînant des erreurs de stock et un manque de visibilité financière.
 
 Ce projet est un **ERP sur-mesure** développé pour digitaliser l'activité sans infrastructure coûteuse.
 
